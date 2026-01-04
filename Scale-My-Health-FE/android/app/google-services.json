@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263630130569",
+    "project_id": "scale-my-health-notification",
+    "storage_bucket": "scale-my-health-notification.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263630130569:android:506d8879d1d5ba735ea558",
+        "android_client_info": {
+          "package_name": "com.scalemyhealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeSiaUKzdpMUUQC1r9nH7K2grW7znu8mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
